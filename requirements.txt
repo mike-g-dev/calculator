@@ -10,3 +10,4 @@ pyflakes==2.4.0
 pyparsing==3.0.7
 pytest==7.0.1
 tomli==2.0.1
+calculator=0.0.1
