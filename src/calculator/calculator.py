@@ -8,4 +8,4 @@ def add(first, second):
 
 
 def subtract(first, second):
-    return first - second
+    return first - secon
